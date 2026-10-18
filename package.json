@@ -1,0 +1,23 @@
+{
+  "name": "thangws",
+  "version": "1.0.0",
+  "description": "mota",
+  "main": "app.js",
+  "scripts": {
+    "test": "chuabiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpprobook6570b/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "key"
+  ],
+  "author": "thang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpprobook6570b/nodejs/issues"
+  },
+  "homepage": "https://github.com/hpprobook6570b/nodejs#readme"
+}
