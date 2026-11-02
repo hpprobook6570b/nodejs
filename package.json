@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hpprobook6570b/nodejs/issues"
   },
-  "homepage": "https://github.com/hpprobook6570b/nodejs#readme"
+  "homepage": "https://github.com/hpprobook6570b/nodejs#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
